@@ -5,7 +5,7 @@ This project involved a supervised classification challenge, where we worked wit
 The data we worked with was public domain data in csv format. Our team found it particularly interesting to analyze how different models performed on the data.
 
 
-Goals:
+Objectives and Goals:
 Our goal was to understand customer sentiment toward telecommunication brands in the US.
 We expected to visualize key insights into the factors that play into customer sentiments, and how to improve based on these insights.
 We worked using methods such as the DCC approach, data cleaning, and web scraping. We used tools such as pre-trained LLMs and several Python libraries for data visualization.
@@ -13,26 +13,21 @@ We worked using methods such as the DCC approach, data cleaning, and web scrapin
 
 Business Impact:
 
-Improved Customer Experience-
+Improved Customer Experience:
 Understanding specific areas of feedback can help address issues early and tailor services to prevent customer churning.
-
-Predictive Insights-
+Predictive Insights:
 Identifying patterns of dissatisfaction can help predict potential churning, allowing for proactive measures to be taken.
-
-and Competitive Advantage-
+Competitive Advantage:
 Predicting negative feedback and repairing these areas can help strengthen customer relationships and maintain a positive brand image.
 
+
 Methodology:
+
 Data Collection and Preprocessing: Downloaded the data; handled missing values and outliers; and performed exploration, tokenization, and feature engineering.
-
 LLM Model Selection: Researched models, compared performances, and selected the most suitable LLM model.
-
 Fine-Tuning and Fitting Model to DataL Trained the models using a preprocessed dataset and fine-tuned parameters for optimal performance.
-
 Sentiment Analysis: Trained the models to classify sentiment as positive or negative.
-
 Evaluation and Optimization: Assessed model performances and improved results based on evaluative measures.
-
 Derive Insights and Visualize Results: Visualized results through plots and charts, and documented findings.
 
 
