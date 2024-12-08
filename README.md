@@ -27,35 +27,8 @@ Derive Insights and Visualize Results: Visualized results through plots and char
 
 Results and Key Findings:
  
-BERT
-Accuracy Score:
-Log Loss:
-Eval Loss:
-.7225
-5.3666583784698005
-0.5504934191703796
-High speed, good context understanding
-Lowest accuracy, highest loss overall
+![image](https://github.com/user-attachments/assets/a84c332e-92cd-453f-92d8-306bc5657a2f)
 
-LAMA
-Accuracy Score:
-Log Loss:
-Eval Loss:
-0.892
-0.7670366625664069
-0.2851766347885132
-High accuracy, low log loss
-Slower evaluation than BERT, higher eval loss than GPT
-
-GPT
-Accuracy Score:
-Log Loss:
-Eval Loss:
-0.892
-1.543650751449529
-0.2575629949569702
-High accuracy, low evaluation loss
-Slower evaluation than BERT, higher log loss than LAMA
 
 LaMa deemed the best performing model
 It has the best balance of high accuracy and low log loss
