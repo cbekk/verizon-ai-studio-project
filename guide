@@ -1,0 +1,29 @@
+Installation:
+
+1. **Clone the repository:**
+2. **Navigate to the project directory:**
+3. **Pip Install dependencies**
+
+Setup and Usage:
+
+1. **Download the IMDB dataset:**
+   - You can download the dataset from the file entitled "Sample Dataset."
+   - Place the `IMDB Dataset.csv` file in the `data` directory within the project.
+
+2. **Data preprocessing and feature engineering:**
+   - The notebook `imdb_sentiment_analysis.ipynb` contains the code for data cleaning, handling outliers, and feature engineering.
+   - Run the cells in the notebook to prepare the data for model training.
+
+3. **Model training and evaluation:**
+   - The notebook includes code for training three different models: BERT, LaMa, and GPT.
+   - Select the model you want to train and run the corresponding cells.
+   - The notebook also evaluates the model's performance using metrics like accuracy, log loss, and confusion matrix.
+
+Step-by-Step Guide:
+
+1. **Clone the repository and install dependencies as described in the Installation section.**
+2. **Download the IMDB dataset and place it in the `data` directory.**
+3. **Open the `imdb_sentiment_analysis.ipynb` notebook in Google Colab or Jupyter Notebook.**
+4. **Run the cells in the notebook to preprocess the data and train the selected model.**
+5. **Evaluate the model's performance using the provided evaluation metrics.**
+
